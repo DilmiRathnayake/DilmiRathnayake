@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **dilmithashmila@gmail.com**
+- 📫 How to reach me **dilmi.t.rathnayake@gmail.com**
 
 - ⚡ Fun fact **Dil**
 

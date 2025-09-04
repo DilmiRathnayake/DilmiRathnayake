@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
 
-
-- 🌱 I’m currently learning **Java**
+I’m worked on Infinit Tech Systems (Pvt) Ltd, affiliated with Sonasu (intern)
 
 - 📫 How to reach me **dilmi.t.rathnayake@gmail.com**
 

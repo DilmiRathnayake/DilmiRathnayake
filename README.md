@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
 
-- I’m worked on Infinit Tech Systems (Pvt) Ltd, affiliated with Sonasu (intern)
+- I’m currently working on Infinit Tech Systems (Pvt) Ltd, affiliated with Sonasu as a Software Intern
   
 - 🎨 Design skills about my UI/UX https://www.figma.com/@dilmyyy
 

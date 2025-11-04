@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning MERN Stack 
 
-- 📫 How to reach me **dilmi.t.rathnayake@gmail.com**
+- 📫 How to reach me **dilmi.t.rathnayake@gmail.com** **dilmi@infinit.lk**
 
 - ⚡ Fun fact **Dil**
 

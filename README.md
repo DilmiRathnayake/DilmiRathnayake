@@ -7,7 +7,9 @@
   
 - 🎨 Design skills about my UI/UX https://www.figma.com/@dilmyyy
 
-- 🌱 I’m currently learning Full Stack Web Development 
+- Check out my personal portfolio! https://dilmis-personal-portforlio.netlify.app/
+
+- 🌱 I’m currently learning MERN Stack 
 
 - 📫 How to reach me **dilmi.t.rathnayake@gmail.com**
 

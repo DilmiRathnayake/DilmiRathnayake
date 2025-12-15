@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilmi Rathnayake</h1>
-<h3 align="center">Software Developer at Infinit sharing about my journey and learning in tech</h3>
+<h3 align="center">Software Developer at Infinit and also work part-time as a Multimedia Designer at Maubee & Jayaneththi Construction sharing about my journey and learning in tech & creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
 

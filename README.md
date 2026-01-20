@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
 
-👩‍💻 Software Developer at Infinit  
-🎨 Part-time Multimedia Designer at Maubee Construction, Jayaneththi Construction & Sandalu Land  
-
-Sharing my journey and continuous learning in technology and creativity.
+- 👩‍💻 Software Developer at Infinit
+  
+- 🎨 Part-time Multimedia Designer at Maubee Construction, Jayaneththi Construction & Sandalu Land  
 
 - 🎨 Design skills about my UI/UX https://www.figma.com/@dilmyyy
 

@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dilmi Rathnayake</h1>
-<h3 align="center">Software Developer at Infinit and also work part-time as a Multimedia Designer at Maubee & Jayaneththi Construction and Sandalu Land sharing about my journey and learning in tech & creativity</h3>
+<h3 align="center">Software Developer at Infinit | Multimedia Designer (Part-time) | Tech × Creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
+
+👩‍💻 Software Developer at Infinit  
+🎨 Part-time Multimedia Designer at Maubee Construction, Jayaneththi Construction & Sandalu Land  
+
+Sharing my journey and continuous learning in technology and creativity.
 
 - 🎨 Design skills about my UI/UX https://www.figma.com/@dilmyyy
 

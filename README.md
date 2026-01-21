@@ -9,7 +9,9 @@
 
 - 🎨 Design skills about my UI/UX https://www.figma.com/@dilmyyy
 
-- Check out my personal portfolio! https://dilmis-personal-portforlio.netlify.app/
+- 🌐 Check out my **graphic design work** on [Behance] https://www.behance.net/dilmirathnayake
+
+- 📂 Check out my personal portfolio! https://dilmis-personal-portforlio.netlify.app/
 
 - 🌱 Learning React, Next.js, Redux & MERN Stack with practical project experience.
 

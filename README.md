@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dilmi Rathnayake</h1>
-<h3 align="center">Software Developer at Infinit | Multimedia Designer (Part-time) | Tech × Creativity</h3>
+<h3 align="center">Former Software Developer at Infinit | Multimedia Designer (Part-time) | Tech × Creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmirathnayake&label=Profile%20views&color=0e75b6&style=flat" alt="dilmirathnayake" /> </p>
 
-- 👩‍💻 Software Developer at Infinit
+- 👩‍💻 Former Intern Software Developer at Infinit
   
 - 🎨 Part-time Multimedia Designer at Maubee Construction, Jayaneththi Construction & Sandalu Land  
 
